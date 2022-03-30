@@ -1,0 +1,2 @@
+# Hellpers
+O Projeto Helppers visa desenvolver uma aplicação web que permita o cadastro de instituições e ações sociais, para que possam fazer a divulgação dos seus itens de arrecadação e a forma de como eles podem ser doados. Também possibilita que apoiadores possam se cadastrar e visualizar instituições e ações sociais, a partir disso eles poderão doar, impulsionar e compartilhar, onde, ao realizar essas ações, podem ser bonificados com medalhas.
